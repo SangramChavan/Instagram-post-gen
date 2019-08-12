@@ -3,4 +3,5 @@
 Install python
 
 1. Update CSV.
-2. Run .py
+2. Adjust post size
+3. Run .py
