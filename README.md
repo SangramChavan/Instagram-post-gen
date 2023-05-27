@@ -1,4 +1,4 @@
-# Insta-post-gen
+# Instagram-post-gen
 
 Install python
 
